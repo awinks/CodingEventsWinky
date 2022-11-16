@@ -1,8 +1,8 @@
-# CodingEventsRichmond
+# CodingEvents
 
 Section 1:  Purpose of this app
 
-This app keeps track of coding type events recorded by the user and saved into a database (of the MySQL type).  
+This app keeps track of coding type events recorded by the user and saved into a database.  
 Events have Name, Description, ContactEmal, Id and Category properties.
 Category has a Name and Id properties.
 With a tag created to crossreference those events with their category (many to many relationship)/
